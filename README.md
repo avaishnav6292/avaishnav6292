@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I'm Ashutosh Vaishnav and I'm a Full Stack Developer.
 <a href="https://www.linkedin.com/in/avaishnav6292">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Ashutosh's Linkedin"  width="50px" height="50px">
+  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Ashutosh's Linkedin"  width="40px" height="40px">
 </a>
 <a href="https://www.hackerrank.com/avaishnav6292">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Ashutosh's Hackerrank" width="50px" height="50px">
