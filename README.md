@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Ashutosh's Hackerrank" width="40px" height="40px" margin="0 10px 0 10px">
 </a>
 <a href="https://www.avaishnav6292.com/avaishnav6292">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode" width="40px" height="40px" margin="0 10px 0 10px">
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
