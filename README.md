@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode" width="40px" height="40px" margin="0 10px 0 10px">
 </a>
 
-***
+![](https://visitor-badge.glitch.me/badge?page_id=avaishnav6292.avaishnav6292)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
