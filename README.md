@@ -1,4 +1,4 @@
-### Hi 👋
+# Hi 👋
 
 <!--
 **avaishnav6292/avaishnav6292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@
 <a href="https://www.leetcode.com/ashutoshv6292">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode" width="40px" height="40px" margin="0 10px 0 10px">
 </a>
-<br><br>
 
-## Technologies I've worked on.
+
+## Languages and Tools
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
