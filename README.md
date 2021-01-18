@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm Ashutosh Vaishnav and I'm a Full Stack Developer.
+<a href="https://www.linkedin.com/in/avaishnav6292">
+  <img src="" alt="Ashutosh's Linkedin">
+</a>
+<a href="https://www.hackerrank.com/avaishnav6292">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Ashutosh's Hackerrank">
+</a>
+<a href="https://www.avaishnav6292.com/avaishnav6292">
+  <img src="" alt="Ashutosh's Leetcode">
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
