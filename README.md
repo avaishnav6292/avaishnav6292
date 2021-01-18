@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ## I'm Ashutosh Vaishnav and I'm a Full Stack Developer.
 <a href="https://www.linkedin.com/in/avaishnav6292">
-  <img src="https://biztraffic.com/wp-content/uploads/2014/06/linkedin-logo.png" alt="Ashutosh's Linkedin"  width="50px" height="50px">
+  <img src="https://biztraffic.com/wp-content/uploads/2014/06/linkedin-logo.png" alt="Ashutosh's Linkedin"  style="width:40px; height:40px; margin:0 10px 0 10px;">
 </a>
 <a href="https://www.hackerrank.com/avaishnav6292">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Ashutosh's Hackerrank" width="50px" height="50px">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Ashutosh's Hackerrank" style="width:40px; height:40px; margin:0 10px 0 10px;">
 </a>
 <a href="https://www.avaishnav6292.com/avaishnav6292">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode"  width="50px" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode"  style="width:40px; height:40px; margin:0 10px 0 10px;">
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
