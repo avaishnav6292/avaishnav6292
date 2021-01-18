@@ -40,6 +40,9 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Flask](https://img.shields.io/badge/-Flask-green?style=flat-square&logo=Flask)
+![SQLite](https://img.shields.io/badge/-SQLite-yellow?style=flat-square&logo=sqlite)
+![Linux](https://img.shields.io/badge/-Linux-660033?style=flat-square&logo=Linux)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
