@@ -22,6 +22,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode" width="40px" height="40px" margin="0 10px 0 10px">
 </a>
 
+<a href="https://www.ashhutoshv-qprofile.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/-QProfile-black?style=flat-square&logo=QProfile" alt="Ashutosh's QProfile" margin="0 10px 0 10px">
+</a>
+
 ## Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-brown?style=flat-square&logo=c)
