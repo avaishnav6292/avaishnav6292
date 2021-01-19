@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://ashutoshv-qprofile.netlify.app">
-  <img src="https://img.shields.io/badge/-QProfile-black?style=flat-square&logo=QProfile" alt="Ashutosh's QProfile">
+  <img src="https://ashutoshv-qprofile.netlify.app/static/Header-32914015ef625514897dfc9540b13aed.png" alt="Ashutosh's QProfile" width="40px" height="40px">
 </a>
 
   
