@@ -51,4 +51,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-660033?style=flat-square&logo=Linux)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&hide=makefile,cmake&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
