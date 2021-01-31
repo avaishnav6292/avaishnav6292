@@ -47,6 +47,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Flask](https://img.shields.io/badge/-Flask-green?style=flat-square&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-444444?style=flat-square&logo=Django)
 ![SQLite](https://img.shields.io/badge/-SQLite-yellow?style=flat-square&logo=sqlite)
 ![Linux](https://img.shields.io/badge/-Linux-660033?style=flat-square&logo=Linux)
 
