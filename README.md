@@ -6,12 +6,12 @@
 ## I'm Ashutosh Vaishnav and I'm a Full Stack Developer.
 
 
-<a href="https://avaishnav6292.github.io">
+<!-- <a href="https://avaishnav6292.github.io">
   <img src="https://www.walkercountyschools.com/cms/lib/AL02210233/Centricity/Domain/68/WebLink.jpg" alt="Ashutosh's Website"  width="40px" height="40px">
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/avaishnav6292">
-  <img src="https://biztraffic.com/wp-content/uploads/2014/06/linkedin-logo.png" alt="Ashutosh's Linkedin"  width="40px" height="40px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Ashutosh's Linkedin"  width="40px" height="40px">
 </a>
 
 <a href="https://www.hackerrank.com/avaishnav6292">
@@ -27,29 +27,40 @@
 </a>
 
   
+ <br/> 
+ <br/>
+ 
 ## Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-brown?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express.js)
+![Flask](https://img.shields.io/badge/-Flask-green?style=flat-square&logo=Flask)
+
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-yellow?style=flat-square&logo=sqlite)
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+ -->
+
+![Linux](https://img.shields.io/badge/-Linux-660033?style=flat-square&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Flask](https://img.shields.io/badge/-Flask-green?style=flat-square&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-444444?style=flat-square&logo=Django)
-![SQLite](https://img.shields.io/badge/-SQLite-yellow?style=flat-square&logo=sqlite)
-![Linux](https://img.shields.io/badge/-Linux-660033?style=flat-square&logo=Linux)
 
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&hide=makefile,cmake&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
