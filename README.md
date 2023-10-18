@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://olibr.com/resume/64f8b5b9138c14648069a309-Ashutosh-Vaishnav">
-  <img src="https://ik.imagekit.io/olibr/assets/tr:w-150,h-49/logo.png" alt="Ashutosh's Leetcode" width="120px" height="40px">
+  <img src="https://ik.imagekit.io/olibr/assets/tr:w-150,h-49/logo.png" alt="Ashutosh's Olibr" width="120px" height="40px">
 </a>
   
  <br/> 
