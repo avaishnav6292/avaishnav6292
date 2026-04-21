@@ -65,4 +65,13 @@
 
 <hr/>
 
+### Automation
+
+![Zapier](https://img.shields.io/badge/zapier-grey?style=for-the-badge&logo=zapier)
+![Make](https://img.shields.io/badge/make-grey?style=for-the-badge&logo=make)
+![n8n](https://img.shields.io/badge/n8n-grey?style=for-the-badge&logo=n8n)
+![Pabbly](https://img.shields.io/badge/pabbly-grey?style=for-the-badge&logo=pabbly)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&hide=makefile,cmake&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
