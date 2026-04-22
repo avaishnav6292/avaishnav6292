@@ -28,7 +28,7 @@
  
 ## Languages and Tools
 
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
@@ -43,20 +43,20 @@
 
 ![node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 ![react.js](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express.js)
+![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
-![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-black?style=for-the-badge&logo=dynamodb)
+![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-black?style=for-the-badge&logo=no-sql)
 
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=ubuntu)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)
-![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=google)
+![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=googlecloud)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
 
