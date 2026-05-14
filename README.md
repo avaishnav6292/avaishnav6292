@@ -1,73 +1,186 @@
-# Hi 👋
+<div align="center">
 
-<!--
-**avaishnav6292/avaishnav6292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-## I'm Ashutosh Vaishnav. 
-## I'm a Full Stack Developer and an Automation Engineer.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    █████╗ ███████╗██╗  ██╗██╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗
+║   ██╔══██╗██╔════╝██║  ██║██║   ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║
+║   ███████║███████╗███████║██║   ██║   ██║   ██║   ██║███████╗███████║
+║   ██╔══██║╚════██║██╔══██║██║   ██║   ██║   ██║   ██║╚════██║██╔══██║
+║   ██║  ██║███████║██║  ██║╚██████╔╝   ██║   ╚██████╔╝███████║██║  ██║
+║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
+</div>
 
-<a href="https://www.crio.do/learn/portfolio/ashutosh-16jccs032-jietjodhpur-ac/">
-  <img src="https://ashutoshv-qprofile.netlify.app/static/Header-32914015ef625514897dfc9540b13aed.png" alt="Ashutosh's QProfile" width="40px" height="40px">
-</a>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/avaishnav6292">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Ashutosh's Linkedin"  width="40px" height="40px">
-</a>
+# `> whoami`
 
-<a href="https://www.hackerrank.com/avaishnav6292">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Ashutosh's Hackerrank" width="40px" height="40px">
-</a>
+**Full Stack Developer** · **Automation Engineer** · **System Thinker**
 
-<a href="https://www.leetcode.com/ashutoshv6292">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ashutosh's Leetcode" width="40px" height="40px">
-</a>
-  
- <br/> 
- <br/>
- 
-## Languages and Tools
+*I don't just write code — I automate the boring stuff so humans can do the interesting stuff.*
 
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+systems+that+work+while+I+sleep...;Automating+the+world%2C+one+workflow+at+a+time;Full+Stack+%2B+No-Code+%3D+Dangerous+Combo+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css)
+</div>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+---
 
+<div align="center">
 
-![node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
-![react.js](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+## `$ cat ashutosh.json`
 
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
-![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-black?style=for-the-badge&logo=no-sql)
+</div>
 
-![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=ubuntu)
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
-![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)
-![GCP](https://img.shields.io/badge/gcp-black?style=for-the-badge&logo=googlecloud)
-![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+```json
+{
+  "name": "Ashutosh Vaishnav",
+  "role": ["Full Stack Developer", "Automation Engineer"],
+  "location": "India 🇮🇳",
+  "currently_building": "Workflows that replace 10-step manual processes with 1 click",
+  "superpower": "Making apps talk to each other",
+  "philosophy": "If you're doing it more than twice, automate it.",
+  "fun_fact": "I've probably saved 1000+ human-hours through automations",
+  "available_for": ["Freelance", "Collaborations", "Open Source"]
+}
+```
 
+---
 
-### Automation
+<div align="center">
 
-![Zapier](https://img.shields.io/badge/zapier-black?style=for-the-badge&logo=zapier)
-![Make](https://img.shields.io/badge/make-black?style=for-the-badge&logo=make)
-![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
-![Pabbly](https://img.shields.io/badge/pabbly-black?style=for-the-badge&logo=pabbly)
+## `$ ls ~/skills/`
 
-<hr/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaishnav6292&hide=makefile,cmake&layout=compact&langs_count=10)](https://github.com/avaishnav6292/github-readme-stats)
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 🧠 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td align="center" width="200">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td align="center" width="200">
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+</td>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=ubuntu&logoColor=black)
+
+</td>
+<td align="center">
+
+### 🤖 Automation Stack
+![Pabbly](https://img.shields.io/badge/Pabbly-FF6B35?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `$ ./automation_philosophy.sh`
+
+</div>
+
+> *"Most developers build features. I build systems that build features."*
+
+```
+AUTOMATION STACK FLOWCHART
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   TRIGGER          PROCESS           OUTCOME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [Form Submit]  →  [Pabbly/n8n]  →  [CRM Update]
+  [Sheet Edit]   →  [Webhook]     →  [Slack Alert]
+  [API Event]    →  [Make]        →  [Email Sent]
+  [Schedule]     →  [Zapier]      →  [Report Built]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         Result: Zero manual effort. ✅
+```
+
+---
+
+<div align="center">
+
+## `$ git log --oneline --graph`
+
+<img src="https://github-stats-alpha.vercel.app/api?username=avaishnav6292&cc=0d1117&tc=00FF41&ic=00FF41&bc=0d1117" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avaishnav6292&theme=radical&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avaishnav6292&theme=radical" height="180"/>
+</div>
+
+---
+
+<div align="center">
+
+## `$ ping ashutosh --connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avaishnav6292)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve_With_Me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/avaishnav6292)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grind_Mode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ashutoshv6292)
+[![Portfolio](https://img.shields.io/badge/QProfile-View_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https://www.crio.do/learn/portfolio/ashutosh-16jccs032-jietjodhpur-ac/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│  Thanks for visiting! If you liked what you saw,    │
+│  drop a ⭐ on something — it means the world to me. │
+│                                                     │
+│  "Automate first. Ask questions later." — Me, 2024  │
+└─────────────────────────────────────────────────────┘
+```
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=avaishnav6292.avaishnav6292&left_color=black&right_color=00FF41&left_text=Profile+Visitors)
+
+</div>
