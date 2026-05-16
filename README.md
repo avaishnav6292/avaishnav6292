@@ -164,7 +164,8 @@ AUTOMATION STACK FLOWCHART
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avaishnav6292)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solve_With_Me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/avaishnav6292)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Grind_Mode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ashutoshv6292)
-[![Portfolio](https://img.shields.io/badge/QProfile-View_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https://www.crio.do/learn/portfolio/ashutosh-16jccs032-jietjodhpur-ac/)
+[![Crio](https://img.shields.io/badge/Crio-View_Projects-FF6B35?style=for-the-badge&logoColor=white)](https://www.crio.do/learn/portfolio/ashutosh-16jccs032-jietjodhpur-ac/)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-FF0000?style=for-the-badge&logoColor=white)](https://avaishnav6292.github.io)
 
 </div>
 
